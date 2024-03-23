@@ -15,6 +15,7 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "types": ["vitest/globals"]
+		
   },
   "references": [{ "path": "./tsconfig.node.json" }]
 }
