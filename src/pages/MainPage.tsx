@@ -1,6 +1,4 @@
-export interface MainPageProps {}
-
-export default function MainPage({}: MainPageProps) {
+export default function MainPage() {
   return (
     <main>
       <h1>Main page</h1>
